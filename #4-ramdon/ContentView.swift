@@ -86,7 +86,7 @@ struct ContentView: View {
                             .shadow(color: .red, radius: 2, x: 3, y: 3)
                         Spacer()
                         
-                        // --- 歲數統計卡片 ---
+                        //歲數統計卡片
                         VStack(spacing: 5) {
                             Text("目前人生進度")
                                 .font(.system(size: 22))
@@ -114,7 +114,7 @@ struct ContentView: View {
                         .background(Color.white.opacity(0.12))
                         .cornerRadius(10)
 
-                        // --- 中間隨機抽籤結果 ---
+                        //中間隨機抽籤結果
                         if gamePhase == 0 {
                             // 尚未開始遊戲的提示畫面
                             VStack(spacing: 15) {
@@ -204,7 +204,7 @@ struct ContentView: View {
                         }
                     }
 
-                    // --- 下方操作按鈕區 ---
+                    //下方操作按鈕區
                     VStack(spacing: 15) {
                         Button(action: {
                             withAnimation {
