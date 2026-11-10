@@ -4,7 +4,7 @@
 ### *Survive If You Can: Absurd Life Simulator*
 
 <p align="center">
-  <a href="#english">🇬🇧 English</a> &nbsp;•&nbsp; <a href="#chinese">🇹🇼 繁體中文</a>
+  <a href="#english"><b>🇬🇧 English</b></a> &nbsp;•&nbsp; <a href="#chinese"><b>🇹🇼 繁體中文</b></a>
 </p>
 
 [![Swift](https://img.shields.io/badge/Swift-5.9+-F05138?style=for-the-badge&logo=swift&logoColor=white)](https://swift.org)
@@ -16,7 +16,7 @@
 
 <p align="center">
   <i>"Life is full of unexpected surprises — mostly ridiculous, occasionally fatal."</i><br/>
-  <b>一個充滿黑色幽默、無厘頭事件與突發死因的 SwiftUI 隨機人生模擬 App！</b>
+  <b>「人生無常，大腸包小腸」—— 一款充滿黑色幽默、無厘頭事件與突發死因的 SwiftUI 隨機人生模擬 App！</b>
 </p>
 
 </div>
@@ -31,22 +31,35 @@
 ### 📱 Preview & Demo
 
 <div align="center">
-
-| 🎬 Live Gameplay Demo | 📸 Absurd Events Overview |
-| :---: | :---: |
-| <img src="assets/demo.gif" width="300" alt="Gameplay Demo" /> | <img src="assets/screenshot.png" width="550" alt="Screenshots Overview" /> |
-
+  <table>
+    <tr>
+      <th align="center">🎬 Live Gameplay Demo</th>
+      <th align="center">📸 App Screenshots & Absurd Events</th>
+    </tr>
+    <tr>
+      <td align="center" width="35%">
+        <a href="assets/demo.gif" target="_blank">
+          <img src="assets/demo.gif" width="280" alt="Gameplay Demo" />
+        </a>
+      </td>
+      <td align="center" width="65%">
+        <a href="assets/screenshot.png" target="_blank">
+          <img src="assets/screenshot.png" width="580" alt="App Screenshots" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
 
 ### 📖 About The Project
 
-**Survive If You Can (活著算你厲害)** is a quirky and humorous iOS game built with **SwiftUI**. 
+**Survive If You Can (活著算你厲害)** is a quirky and humorous iOS game built entirely with **SwiftUI**. 
 
 In this simulation, players step into a completely chaotic journey through life. With every tap, you advance in age and face unpredictable, comical, or deadly random events. Will you live to a ripe old age, or choke on jelly at 48? Will you be struck by lightning, get abducted by aliens, or unexpectedly receive a thousand dollars?
 
-Surviving is an achievement in itself! 🏆
+Surviving each step is an achievement in itself! 🏆
 
 ---
 
@@ -111,7 +124,7 @@ Surviving is an achievement in itself! 🏆
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/4-ramdon.git
+   git clone https://github.com/olivia20-rt/-4-ramdon.git
    ```
 2. **Open in Xcode**:
    Double click `#4-ramdon.xcodeproj` or open the directory in Xcode 15+.
@@ -134,11 +147,24 @@ Surviving is an achievement in itself! 🏆
 ### 📱 成果展示與操作預覽
 
 <div align="center">
-
-| 🎬 遊戲操作動態 GIF | 📸 多機型畫面與隨機事件一覽 |
-| :---: | :---: |
-| <img src="assets/demo.gif" width="300" alt="操作展示" /> | <img src="assets/screenshot.png" width="550" alt="截圖一覽" /> |
-
+  <table>
+    <tr>
+      <th align="center">🎬 遊戲操作動態 GIF</th>
+      <th align="center">📸 App 實機畫面與隨機事件一覽</th>
+    </tr>
+    <tr>
+      <td align="center" width="35%">
+        <a href="assets/demo.gif" target="_blank">
+          <img src="assets/demo.gif" width="280" alt="操作展示" />
+        </a>
+      </td>
+      <td align="center" width="65%">
+        <a href="assets/screenshot.png" target="_blank">
+          <img src="assets/screenshot.png" width="580" alt="App 畫面截圖" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -231,7 +257,7 @@ flowchart TD
 
 1. **複製專案庫**：
    ```bash
-   git clone https://github.com/your-username/4-ramdon.git
+   git clone https://github.com/olivia20-rt/-4-ramdon.git
    ```
 2. **使用 Xcode 開啟**：
    點擊 `#4-ramdon.xcodeproj` 開啟專案。
