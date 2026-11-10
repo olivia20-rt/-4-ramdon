@@ -28,27 +28,13 @@
 
 <p align="right"><a href="#chinese">👉 切換至繁體中文</a></p>
 
-### 📱 Preview & Demo
+### 📱 Live Demo
 
 <div align="center">
-  <table>
-    <tr>
-      <th align="center">🎬 Live Gameplay Demo</th>
-      <th align="center">📸 App Screenshots & Absurd Events</th>
-    </tr>
-    <tr>
-      <td align="center" width="35%">
-        <a href="assets/demo.gif" target="_blank">
-          <img src="assets/demo.gif" width="280" alt="Gameplay Demo" />
-        </a>
-      </td>
-      <td align="center" width="65%">
-        <a href="assets/screenshot.png" target="_blank">
-          <img src="assets/screenshot.png" width="580" alt="App Screenshots" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="assets/demo.gif" target="_blank">
+    <img src="assets/demo.gif" width="320" alt="Live Gameplay Demo" />
+  </a>
+  <p><sub>🎬 <i>Tap the animation to view in full resolution</i></sub></p>
 </div>
 
 ---
@@ -111,8 +97,7 @@ Surviving each step is an achievement in itself! 🏆
 │   ├── Creepster-Regular.ttf    # Horror font for R.I.P. screen
 │   └── SweiDevilSansCJKtc-Bold.ttf # Ghost gothic font for Chinese titles
 ├── assets/
-│   ├── demo.gif                 # Screen recording animation
-│   └── screenshot.png           # Multi-device mockup collage
+│   └── demo.gif                 # Screen recording animation
 ├── -4-ramdon-Info.plist         # Custom font configuration
 ├── #4-ramdon.xcodeproj          # Xcode project file
 └── README.md                    # Project documentation
@@ -147,24 +132,10 @@ Surviving each step is an achievement in itself! 🏆
 ### 📱 成果展示與操作預覽
 
 <div align="center">
-  <table>
-    <tr>
-      <th align="center">🎬 遊戲操作動態 GIF</th>
-      <th align="center">📸 App 實機畫面與隨機事件一覽</th>
-    </tr>
-    <tr>
-      <td align="center" width="35%">
-        <a href="assets/demo.gif" target="_blank">
-          <img src="assets/demo.gif" width="280" alt="操作展示" />
-        </a>
-      </td>
-      <td align="center" width="65%">
-        <a href="assets/screenshot.png" target="_blank">
-          <img src="assets/screenshot.png" width="580" alt="App 畫面截圖" />
-        </a>
-      </td>
-    </tr>
-  </table>
+  <a href="assets/demo.gif" target="_blank">
+    <img src="assets/demo.gif" width="320" alt="遊戲操作動態展示" />
+  </a>
+  <p><sub>🎬 <i>點擊上方動畫可查看原始解析度動態效果</i></sub></p>
 </div>
 
 ---
@@ -244,8 +215,7 @@ flowchart TD
 │   ├── Creepster-Regular.ttf    # 墓碑 R.I.P. 專用英文字體
 │   └── SweiDevilSansCJKtc-Bold.ttf # 芫荽鬼體繁體中文字體
 ├── assets/
-│   ├── demo.gif                 # App 實際操作錄影 GIF
-│   └── screenshot.png           # 8 款 iPhone 畫面截圖組合圖
+│   └── demo.gif                 # App 實際操作錄影 GIF
 ├── -4-ramdon-Info.plist         # 專案 Info.plist（字體配置）
 ├── #4-ramdon.xcodeproj          # Xcode 專案檔
 └── README.md                    # 專案說明文件
