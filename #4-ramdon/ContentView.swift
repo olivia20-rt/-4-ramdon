@@ -188,7 +188,7 @@ struct ContentView: View {
 
                                 
                                 Text(event.eventDescription)
-                                    .font(.subheadline)  // 字體改小
+                                    .font(.subheadline)
                                     .foregroundColor(.white)
                                     .multilineTextAlignment(.leading)
                                     .frame(
